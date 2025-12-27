@@ -1,3 +1,6 @@
+# Deprecated
+This project has moved to [stache-ai](https://github.com/stache-ai/stache-ai) - it is no longer maintained here.
+
 # RAGBrain MCP
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
